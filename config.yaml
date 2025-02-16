@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kibby Blog
-  description: "ExampleSite description"
+  description: "A techblog sharing my nerdy journeys, with sprinkle of cats and FromSoftware love."
   keywords: [Homelab, Blog, Portfolio, PaperMod]
   author: mlem_dev
   images: ["<link or path of image for opengraph, twitter-cards>"]

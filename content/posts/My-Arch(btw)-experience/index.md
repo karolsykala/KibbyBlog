@@ -2,8 +2,8 @@
 date: '2025-02-16T22:11:12+01:00'
 draft: false
 title: 'My Arch(btw) Experience'
-featured_image: './images/archcat.jpg'
 ---
+![image](./images/archcat.jpg)
 So, I decided to try running Arch Linux with a Hyprland config called [HyDE](https://github.com/Hyde-project/hyde). It was a great experience, but, of course, it introduced some unnecessary bloat. Could I have just read through the documentation and removed the extra components? Sure. Am I going to rice it all by myself? Naturally!
 
 My goal for switching to Arch Linux is to get a deeper understanding of Linux system components. I appreciate projects like HyDE, but I see them as tools for people who already understand the system and just want to get to work faster. Right now, I’m still learning how Arch and Wayland work, so it’s much more important for me to gather knowledge rather than just using pre-built templates that I won’t even read.

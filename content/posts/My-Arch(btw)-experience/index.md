@@ -16,5 +16,5 @@ For some reason that happens every time after a fresh install, let's just ignore
 
 Now I'm able to login and the first thing I see is....anime girl....
 Maybe that black screen wasn't that bad...
-At least there is a cat.
+At least there is a cat. :3
 ![image](./images/default_desktop.jpeg)

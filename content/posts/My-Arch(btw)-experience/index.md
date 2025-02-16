@@ -1,6 +1,6 @@
 ---
 date: '2025-02-16T22:11:12+01:00'
-draft: true
+draft: false
 title: 'My Arch(btw) Experience'
 ---
 I've tried running arch linux with hypralnd config called [HyDE](https://github.com/Hyde-project/hyde), which was great, but introduced unnecesary stuff. Could I just read into the documentation and just remove unnecessary components? Sure. Am I going to rice it all by myself? Naturally.

@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41797/</loc>
+    <loc>https://mlemcat.org/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41797/posts/my-archbtw-experience/</loc>
+    <loc>https://mlemcat.org/posts/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41797/posts/</loc>
-    <lastmod>2025-02-16T22:11:12+01:00</lastmod>
+    <loc>https://mlemcat.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:41797/categories/</loc>
-  </url><url>
-    <loc>http://localhost:41797/tags/</loc>
+    <loc>https://mlemcat.org/tags/</loc>
   </url>
 </urlset>

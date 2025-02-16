@@ -55,7 +55,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Hi :3
     subtitle: "Welcome to my happy place, where I share my ideas and cat pictures :3"
     imageUrl: "me.jpeg"
@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there"
-    Content: Welcome to my blog
+    Title: "Hi :3"
+    Content: Welcome to my happy place, where I share my ideas and cat pictures :3
 
   socialIcons:
     - name: github

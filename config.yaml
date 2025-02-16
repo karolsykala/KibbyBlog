@@ -18,7 +18,7 @@ params:
   description: "A techblog sharing my nerdy journeys, with sprinkle of cats and FromSoftware love."
   keywords: [Homelab, Blog, Portfolio, PaperMod]
   author: mlem_dev
-  images: ["static/me.jpeg"]
+  images: ["./static/me.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: true

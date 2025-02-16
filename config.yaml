@@ -76,11 +76,14 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/karolsykala"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/karolsykala/"
+    - name: telegram
+      url: "https://t.me/mlemlon"
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/mlem_dev"
+    - name: twitter
+      title: Twitter
+      url: "https://x.com/mlem_dev"
 
   analytics:
     google:

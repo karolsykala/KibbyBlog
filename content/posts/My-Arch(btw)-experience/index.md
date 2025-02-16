@@ -63,6 +63,35 @@ But wait, where are the icons? No worries! Just install the missing fonts with:
 
 After running `waybar` again, the icons should be there, and everything looks much cooler.
 
+If you're like me and not a designer genius, I recommend grabbing one of the example configs and tweaking it to your liking. I got mine from [here](https://github.com/Alexays/Waybar/wiki/Examples). But if you’re feeling adventurous and want to make something from scratch, here’s a basic config to get you started:
+
+  
+
+Create a new folder under `.config` called `waybar` and add a `config.jsonc` file with this basic setup:
+
+```
+{
+    "layer": "top",
+        "modules-left": ["hyprland/workspaces", "hyprland/mode"],
+        "modules-center": ["hyprland/window"],
+        "modules-right": ["battery", "clock"],
+    "sway/window": {
+        "max-length": 50
+    },
+        "battery": {
+            "format": "{capacity}% {icon}",
+            "format-icons": ["", "", "", "", ""]
+    
+    },
+    "clock": {
+        "format-alt": "{:%a, %d. %b %H:%M}"
+    }
+
+}
+
+```
+
+If you’re on a desktop, you can remove the battery section.
 
 ### Autostart: Making Life Easier
 
@@ -72,32 +101,6 @@ For simplicity, let’s uncomment that line and leave only `waybar` for now:
 ``exec-once = waybar``
 Now, press **Super + M** to log out, then log back in. If everything went well, Waybar should autostart.
 
-
 ### Final Thoughts
 
-If you're like me and not a designer genius, I recommend grabbing one of the example configs and tweaking it to your liking. I got mine from [here](https://github.com/Alexays/Waybar/wiki/Examples). But if you’re feeling adventurous and want to make something from scratch, here’s a basic config to get you started:
-
-Create a new folder under `.config` called `waybar` and add a `config.jsonc` file with this basic setup:
-```json
-{
-    "layer": "top",
-    "modules-left": ["hyprland/workspaces", "hyprland/mode"],
-    "modules-center": ["hyprland/window"],
-    "modules-right": ["battery", "clock"],
-    "sway/window": {
-        "max-length": 50
-    },
-    "battery": {
-        "format": "{capacity}% {icon}",
-        "format-icons": ["", "", "", "", ""]
-    },
-    "clock": {
-        "format-alt": "{:%a, %d. %b  %H:%M}"
-    }
-}
-```
-
-If you’re on a desktop, you can remove the battery section.
-
 And that’s it for now! I’m still learning and tweaking, but Hyprland is definitely growing on me. Expect more updates as I continue my journey through the world of Arch Linux, Wayland, and, of course, cats :3
-

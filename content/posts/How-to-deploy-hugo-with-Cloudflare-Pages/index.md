@@ -61,7 +61,7 @@ Ready to embark on the setup journey? Here’s your guide to creating your Hugo-
    **Important!** Some themes may require a specific Hugo version, higher or lower than what Cloudflare Pages uses. You can manually set the Hugo version with `HUGO_VERSION = <number>`. For PaperMod, I needed version 0.143.1 or higher, so that’s what I picked.
    ![image](images/cf-pages4.png)
 5. Once everything is set up, click **Save and Deploy**.
-   ![[image](images/cf-pages5.png)
+   ![image](images/cf-pages5.png)
 
 And voilà—your website is now live! Every time you push to the master branch, Cloudflare Pages will automatically rebuild your site and serve it under the URL `{your_project_name}.pages.dev`, or any custom domain you set up.
 

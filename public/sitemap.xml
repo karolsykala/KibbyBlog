@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41873/</loc>
+    <loc>http://localhost:1313/posts/how-to-deploy-hugo-with-cloudflare-pages/</loc>
+    <lastmod>2025-02-17T17:45:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-17T17:45:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-17T17:45:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-archbtw-experience/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41873/posts/my-archbtw-experience/</loc>
-    <lastmod>2025-02-16T22:11:12+01:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:41873/posts/</loc>
-    <lastmod>2025-02-16T22:11:12+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:41873/categories/</loc>
-  </url><url>
-    <loc>http://localhost:41873/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

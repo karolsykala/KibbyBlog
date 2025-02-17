@@ -71,4 +71,9 @@ If you run into any issues along the way, don’t panic. Check the build logs fo
 ---
 
 Now you’re ready to explore the vast world of static site generators and embrace your role as a blog creator. May your markdown be clean, your deployments swift, and may you never get stuck in an endless loop of errors (unless it's a fun one) :3
-![image](images/pierogi-journey.JPG)
+
+**Behold, cat!**
+
+*A sip of coffee is but a small kindnenss.*
+[Support me on Ko-fi! :3](https://ko-fi.com/mlem_dev)
+[![image](images/pierogi-journey.JPG)](https://ko-fi.com/mlem_dev)

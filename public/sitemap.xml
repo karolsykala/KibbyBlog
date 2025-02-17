@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/how-to-deploy-hugo-with-cloudflare-pages/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/how-to-deploy-hugo-with-cloudflare-pages/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kibbyblog.pages.dev/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-archbtw-experience/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/my-archbtw-experience/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kibbyblog.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/</loc>
   </url>
 </urlset>
